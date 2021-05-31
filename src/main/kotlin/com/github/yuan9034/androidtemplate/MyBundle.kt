@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.yuan9034.androidtemplate
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
